@@ -1,0 +1,90 @@
+Subject: New Client Questionnaire - {{practice_name}}
+
+---
+
+PRACTICE INFORMATION
+Practice Name: {{practice_name}}
+Tagline: {{tagline}}
+Contact Person: {{contact_person}}
+Email: {{email}}
+Phone: {{phone}}
+
+Address:
+{{street}}
+{{city}}, {{state}} {{postal_code}}
+
+---
+
+SERVICES & SPECIALTIES
+Main Specialties: {{specialties}}
+Other Specialty: {{other_specialty}}
+
+Services Offered:
+{{services}}
+
+---
+
+TARGET AUDIENCE
+Primary Audience: {{audience}}
+Other Audience: {{other_audience}}
+Age Range: {{age_range}}
+
+---
+
+WEBSITE GOALS & FEATURES
+Primary Goal: {{primary_goal}}
+Other Goal: {{other_goal}}
+Desired Features: {{features}}
+
+---
+
+TECHNICAL REQUIREMENTS
+Practice Management Software: {{practice_management}}
+Software Name: {{software_name}}
+HIPAA Compliance: {{hipaa}}
+Sell Online: {{sell_online}}
+Products to Sell: {{products_to_sell}}
+
+---
+
+BUSINESS HOURS
+Monday: {{monday_hours}}
+Tuesday: {{tuesday_hours}}
+Wednesday: {{wednesday_hours}}
+Thursday: {{thursday_hours}}
+Friday: {{friday_hours}}
+Saturday: {{saturday_hours}}
+Sunday: {{sunday_hours}}
+
+Insurance Plans: {{insurance}}
+Display Pricing: {{display_pricing}}
+
+---
+
+DESIGN PREFERENCES
+Reference Websites:
+{{reference_websites}}
+
+Color Scheme: {{color_scheme}}
+Website Style: {{website_style}}
+
+---
+
+SOCIAL MEDIA
+Facebook: {{facebook}}
+Instagram: {{instagram}}
+LinkedIn: {{linkedin}}
+YouTube: {{youtube}}
+
+---
+
+ADDITIONAL INFORMATION
+Additional Requirements:
+{{additional_requirements}}
+
+Questions for Us:
+{{questions}}
+
+---
+
+Submitted on: {{submission_date}}
